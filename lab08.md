@@ -5,6 +5,7 @@
 player：一个可以跳来跳去的水管工。  
 treasure：蘑菇。这是加分的唯一办法。
 ## CRCs
+
 |ObjectName|Attributes|Collaborator|
 |-|-|-|
 水管工|玩家|蘑菇、各种跳板
@@ -16,4 +17,5 @@ treasure：蘑菇。这是加分的唯一办法。
 |ObjectName|Attributes|Collaborator|
 |-|-|-|
 地板跳板|前进道路、辅助获得蘑菇|蘑菇、水管工
+
 ![](images/超级玛丽.gif)
